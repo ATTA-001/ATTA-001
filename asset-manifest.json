@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64d8dd83.css",
+    "main.js": "/static/js/main.f2998f92.js",
+    "static/js/787.40d0d878.chunk.js": "/static/js/787.40d0d878.chunk.js",
+    "static/media/kia3.png": "/static/media/kia3.51deec843288515821ff.png",
+    "static/media/Kia.png": "/static/media/Kia.f7950a6ef7b03ba798ae.png",
+    "static/media/kia2.png": "/static/media/kia2.a2c08966b1fa6bc17ee3.png",
+    "static/media/s3.jpeg": "/static/media/s3.55ec94083dee772844ba.jpeg",
+    "static/media/s4.jpg": "/static/media/s4.36ba3594f7dcafe36821.jpg",
+    "static/media/l2.jpg": "/static/media/l2.738d6dfc705acb3101dd.jpg",
+    "static/media/s6.jpg": "/static/media/s6.29b2054dae43f755313b.jpg",
+    "static/media/s2.jpg": "/static/media/s2.ba07e8d21527084c61eb.jpg",
+    "static/media/s5.jpg": "/static/media/s5.8b6f9366c92f96c547d0.jpg",
+    "static/media/s1.jpg": "/static/media/s1.c5285e2e90b2699a8842.jpg",
+    "static/media/car2.png": "/static/media/car2.ed30d1bdf2b938182549.png",
+    "static/media/car3.png": "/static/media/car3.0387f590a4a33a8e1a0b.png",
+    "static/media/221.jpg": "/static/media/221.6d36f475497f6d9f9e4a.jpg",
+    "static/media/car6.png": "/static/media/car6.12902d9d77fa836abe72.png",
+    "static/media/car4.png": "/static/media/car4.8aba3e753e60610a6c2a.png",
+    "index.html": "/index.html",
+    "main.64d8dd83.css.map": "/static/css/main.64d8dd83.css.map",
+    "main.f2998f92.js.map": "/static/js/main.f2998f92.js.map",
+    "787.40d0d878.chunk.js.map": "/static/js/787.40d0d878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d8dd83.css",
+    "static/js/main.f2998f92.js"
+  ]
+}
